@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\Dell\source\repos\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\Dell\source\repos\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\Dell\source\repos\lab7\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\Dell\source\repos\lab7\lab7\obj\Debug\lab7.pdb
