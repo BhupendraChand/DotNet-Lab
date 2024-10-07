@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\lab4\bin\Debug\lab4.exe.config
+C:\Users\Dell\source\repos\lab4\bin\Debug\lab4.exe
+C:\Users\Dell\source\repos\lab4\bin\Debug\lab4.pdb
+C:\Users\Dell\source\repos\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\lab4\obj\Debug\lab4.exe
+C:\Users\Dell\source\repos\lab4\obj\Debug\lab4.pdb

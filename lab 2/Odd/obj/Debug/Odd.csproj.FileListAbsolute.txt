@@ -1,0 +1,2 @@
+C:\Users\Dell\source\repos\Odd\Odd\obj\Debug\Odd.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Odd\Odd\obj\Debug\Odd.csproj.CoreCompileInputs.cache

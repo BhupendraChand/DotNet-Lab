@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\diagonalmatrix\bin\Debug\diagonalmatrix.exe.config
+C:\Users\Dell\source\repos\diagonalmatrix\bin\Debug\diagonalmatrix.exe
+C:\Users\Dell\source\repos\diagonalmatrix\bin\Debug\diagonalmatrix.pdb
+C:\Users\Dell\source\repos\diagonalmatrix\obj\Debug\diagonalmatrix.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\diagonalmatrix\obj\Debug\diagonalmatrix.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\diagonalmatrix\obj\Debug\diagonalmatrix.exe
+C:\Users\Dell\source\repos\diagonalmatrix\obj\Debug\diagonalmatrix.pdb
